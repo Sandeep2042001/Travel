@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Calendar, MapPin, Plus, Clock, Users, Plane, Hotel, Car } from 'lucide-react';

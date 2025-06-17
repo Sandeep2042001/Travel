@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { MapPin, Star, Heart, Camera, Navigation, Filter } from 'lucide-react';
